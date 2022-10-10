@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -20,10 +19,6 @@ This is my first experience with Frontend Mentor.
 ### Screenshot
 
 ![Screenshot of the result](./images/screenshot.png)
-
-### Links
-
-- Live Site URL: [COMING SOON](...)
 
 ### Built with
 
@@ -47,5 +42,4 @@ Next up I will study Tailwind CSS and a little bit of SASS for the design part a
 
 ## Author
 
-- Website - [RXBL4D3](https://www.your-site.com)
-- Frontend Mentor - [@RXBlade](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@RXBlade](https://www.frontendmentor.io/profile/RXBlade)
