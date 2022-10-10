@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Outfit);
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@media (min-width: 350px) {
+    .container {
+        width: 315px;
+    }
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.card {
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    padding: 15px;
+    font-family: Outfit;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card-title {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.card-description {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+
+.attribution {
+    position: fixed;
+    bottom: 1%;
+}
